@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, soy KEVIN AGUILAR GONZALEZ</h1>
 <h3 align="center">Soy desarrollador de aplicaciones multiplataforma.</h3>
 
+- Actualmente trabajo como becario **en TECNOBIT Grupo Oesia**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/kevinag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kevinag" height="30" width="40" /></a>
