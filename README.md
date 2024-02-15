@@ -5,7 +5,7 @@
 
 - 💬 Pregúntame sobre **HTML, CSS, JQUERY, RUBY ON RAILS, PYTHON, BOOTSTRAP**
 
-- 📫 Cómo comuníquese conmigo **aguilar24g@gmail.com**
+- 📫 Contacta conmigo **aguilar24g@gmail.com**
 
 <h3 align="left">Conéctese conmigo:</h3>
 <p align="left">
