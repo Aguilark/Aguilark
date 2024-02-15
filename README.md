@@ -7,7 +7,7 @@
 
 - 📫 Cómo comuníquese conmigo **aguilar24g@gmail.com**
 
-<h3 align="left">Conéctese conmigo:</h3>
+<h3 align="left">Contacta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ linkedin.com/in/kevinag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/ iconos/Social/linked-in-alt.svg" alt="linkedin.com/in/kevinag" height="30" width="40" /></a> </p>
 <
